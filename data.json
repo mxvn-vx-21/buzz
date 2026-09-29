@@ -1,0 +1,62 @@
+{
+    "_readme": [],
+    "theme": {
+        "accent": "#ffffff",
+        "black": "#000000",
+        "fontDisplay": "Space Grotesk",
+        "fontMono": "JetBrains Mono",
+        "fontBody": "Inter",
+        "cursorEnabled": true,
+        "cursorShape": "square",
+        "logoDataUri": ""
+    },
+    "site": {
+        "title": "$ufi's place",
+        "description": "Belongs to your majesty $ufi!",
+        "tagline": "Your kings asks you to bow.",
+        "bio": "$ufi is a developer. He makes websites, discord and telegram bots, windows and android applications and more stuff!",
+        "contactNote": "Note: Contact me on Discord to get earliest response.",
+        "heroLines": [
+            "Developer",
+            "King",
+            "Owner",
+            "Experimenter",
+            "Enterpreneur",
+            "Mystical"
+        ],
+        "marqueeWords": []
+    },
+    "contact": {
+        "github": "github.com/mxvn-vx-21",
+        "discord": "",
+        "email": "bmw@marvel.wtf",
+        "discordWebhookUrl": "https://discord.com/api/webhooks/1553753889252315156/WS_JOzhnjCYJVhI98n4RX89QSiT4dPmPbMVI5PxYEb9Rockgbw5WIxlzo2Rk7RYyy3Tj"
+    },
+    "ai": {
+        "apiKey": "",
+        "model": ""
+    },
+    "projects": [
+        {
+            "id": "PROJECT_001",
+            "name": "MARVEL.WTF - coming soon!",
+            "status": "beta",
+            "category": "Link-in-bio pages",
+            "date": "25 July,2026",
+            "desc": "Link in bio pages for Marvel fans! Go waitlist yourself!",
+            "stack": [
+                "HTML",
+                "CSS",
+                "JS",
+                "Node",
+                "Nginx",
+                "CloudFlare"
+            ],
+            "launch": "https://marvel.wtf",
+            "preview": "https://v2.marvel.wtf",
+            "github": ""
+        }
+    ],
+    "modules": [],
+    "stats": []
+}
